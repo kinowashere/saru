@@ -1,3 +1,3 @@
-# Zaru
+# Saru
 
-Zaru means 🐒. It's also the name of my homemade PHP framework
+Saru means 🐒. It's also the name of my homemade PHP framework
